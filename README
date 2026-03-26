@@ -1,0 +1,17 @@
+This Repository contains my 30 day journey of building VBA-Based financial analysis tools.
+
+Day 1 - Stock Data Cleaner Tool
+
+Features
+Cleans raw stock data from CSV
+Removes blank rows
+Sorts data automatically
+Formats date column
+Calculates daily returns %
+
+Output
+Clean dataset ready for analysis
+price trend chart
+
+Use case
+Helps analysts save time by automating repetative data cleaning tasks.
